@@ -1,0 +1,9 @@
+function About(){
+    return(
+        <p className="me">
+			I am Aditya Batgeri, a third-year B.Tech student majoring in <span className="span1">Computer Science</span> at Pune Vidyarthi Griha College of Engineering and Technology, affiliated with Savitribai Phule Pune University. With a strong foundation in both <span className="span1">front-end</span> and <span className="span1">back-end web development</span>, I have developed a particular affinity for managing backend operations, including authentication, validation, and database management.Over the past two years, I have honed my skills in various programming languages such as C++, Python, Java, and JavaScript.<br></br><br></br>My web development expertise includes proficiency in <span className="span1">modern frameworks</span> and technologies like React.js, Node.js, MongoDB, and MySQL.In addition to web development, I have also delved into <span className="span1">data science</span> and data <span className="span1">visualization</span>, acquiring skills in pandas, NLTK, scikit-learn, Matplotlib, and Seaborn. <br></br><br></br>These tools enable me to effectively analyze and visualize data, enhancing my ability to derive insights and build data-driven applications.As a dedicated and passionate developer, I continually strive to expand my knowledge and take on new challenges in the ever-evolving fields of web development and data science.I have participated in numerous projects and competitions, including the Smart India Hackathon, Google Developers Club Ideathon, and various project-based learning initiatives.
+		</p>
+    )
+}
+
+export default About;
